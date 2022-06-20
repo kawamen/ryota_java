@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="aec1ed5b-6c09-42a8-8493-63212e4ac48c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +39,8 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task1" />
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task1" />
       <module name="ryota_java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -48,7 +48,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
