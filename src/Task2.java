@@ -8,6 +8,9 @@ public class Task2 {
         double[] scoreList = new double[STUDENT_NUM];
 
         Scanner sc = new Scanner(System.in);
+        System.out.println("名前と素点を8人分入れてください。");
+        System.out.println("間に空白を入れてください");
+        System.out.print("> ");
         for (int i=0; i<STUDENT_NUM; i++) {
             nameList[i] = sc.next();
             scoreList[i] = sc.nextDouble();
